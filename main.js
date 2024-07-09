@@ -12,7 +12,7 @@ document.querySelector('.contact_container_form').addEventListener('submit',(eve
             'Content-type':'application/json'
         },
         body:JSON.stringify({
-            chat_id:-4210520413 ,
+            chat_id:-1002106216702 ,
             text:`
             Фото${fullName}\nОписание :${textAreaValue}
             `
